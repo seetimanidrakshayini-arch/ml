@@ -5,6 +5,6 @@ int main(){
     int k=0;
     cout<<"kjhgcawvdsndkmc,";
     int i=0;
-
+int m=0;
     return 0;
 }
