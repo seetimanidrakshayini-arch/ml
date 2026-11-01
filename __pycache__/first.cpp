@@ -4,6 +4,7 @@ int main(){
     cout<<"lkgfhavsdb xc";
     cout<<"drakshayini";
     cout<<"seetimani";
+
     cout<<"suresh";
 
     cout<<"miss perpection";
@@ -16,5 +17,7 @@ int main(){
 
     int i=6;
 
+=======
+>>>>>>> parent of 99a6193 (name)
     return 0;
 }
