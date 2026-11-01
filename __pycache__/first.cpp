@@ -11,6 +11,10 @@ int main(){
     cout<<"miss";
     cout<<"i am";
     cout<<"gvbghnm";
+
     int i=0;
+
+    int i=6;
+
     return 0;
 }
